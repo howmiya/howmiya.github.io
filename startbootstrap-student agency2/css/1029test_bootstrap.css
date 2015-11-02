@@ -1,0 +1,7 @@
+header {
+    background-image: url(../img/header-bg.jpg);
+}
+
+.disapear {
+    background-color: rgba(0, 0, 0, 0);
+}
