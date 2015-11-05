@@ -1,0 +1,96 @@
+    body {
+        background-color: #f6db20;
+    }
+    
+    .circle1 {
+        box-sizing: border-box;
+        width: 300px;
+        height: 320px;
+        text-align: center;
+        padding-top: 100px;
+        border-radius: 50%;
+        /* %整個區塊的半徑*/
+        background-color: #623108;
+        position: absolute;
+        top: -75px;
+        left: 330px;
+        color: #FFCC00;
+        font-size: 1em;
+    }
+    
+    .circle2 {
+        box-sizing: border-box;
+        width: 200px;
+        height: 200px;
+        text-align: center;
+        padding-top: 50px;
+        padding-left: 15px;
+        border-radius: 50%;
+        /* %整個區塊的半徑*/
+        background-color: #B8860B;
+        position: absolute;
+        top: 299px;
+        left: 290px;
+        color: white;
+        font-size: .8em;
+    }
+    
+    .circle3 {
+        box-sizing: border-box;
+        width: 500px;
+        height: 500px;
+        text-align: center;
+        padding-top: 100px;
+        padding-left: 55px;
+        padding-right: 55px;
+        border-radius: 50%;
+        background-color: #ffffff;
+        position: absolute;
+        top: 200px;
+        left: 470px;
+        color: #8B4513;
+    }
+    
+    .circle4 {
+        box-sizing: border-box;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background-color: #ffffff;
+        padding-top: 30px;
+        padding-left: 35px;
+        padding-right: 45px;
+        position: absolute;
+        top: 150px;
+        left: 870px;
+    }
+    
+    .circle5 {
+        box-sizing: border-box;
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        text-align: center;
+        padding-top: 10px;
+        background-color: #B8860B;
+        color: white;
+        font-size: 0.8em;
+        position: fixed;
+        bottom: 50px;
+        right: 90px;
+    }
+    
+    .circle6 {
+        box-sizing: border-box;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        text-align: center;
+        color: #FFCC00;
+        font-size: 0.5em;
+        padding-top: 40px;
+        background-color: #FF6633;
+        position: absolute;
+        top: 700px;
+        left: 500px;
+    }
