@@ -1,0 +1,108 @@
+    body {
+        margin: 0px;
+    }
+    
+    .tittle {
+        position: fixed;
+        left: 35%;
+    }
+    
+    h1 {
+        font-family: 'Permanent Marker', cursive;
+        font-size: 90px;
+        text-align: center;
+    }
+    
+    h3 {
+        font-family: 'Open Sans';
+    }
+    
+    .japan {
+        font-family: 'Permanent Marker', cursive;
+        text-align: center;
+        font-size: 48px;
+        position: fixed;
+        left: 48%;
+        top: 18%;
+    }
+    
+    .p1 {
+        font-weight: bold;
+        height: 300px;
+        text-align: center;
+        padding: 200px;
+    }
+    
+    .p2 {
+        box-sizing: border-box;
+        background-color: #DAE0E1;
+        height: 500px;
+    }
+    
+    .whitebox {
+        box-sizing: border-box;
+        position: absolute;
+        top: 335%;
+        left: 32%;
+        width: 500px;
+        height: 520px;
+        background-color: #ffffff;
+        text-align: center;
+        padding: 45px;
+        padding-top: 120px;
+        line-height: 24px;
+        font-weight: bold;
+    }
+    
+    .p3 {
+        font-weight: bold;
+        line-height: 34px;
+        height: 300px;
+        text-align: justify;
+        padding: 200px;
+        line-height: 100%;
+    }
+    
+    .p4 {
+        position: absolute;
+        top: 800%;
+        left: 80px;
+    }
+    
+    .p4right {
+        box-sizing: border-box;
+        position: absolute;
+        left: 50%;
+        top: 800%;
+        text-align: justify;
+        font-weight: bold;
+        line-height: 34px;
+    }
+    
+    .box {
+        box-sizing: border-box;
+        background-color: #FFFFFF;
+        height: 720px;
+    }
+    
+    .footer {
+        box-sizing: border-box;
+        color: #FFFFFF;
+        background-color: #696969;
+        height: 350px;
+        text-align: center;
+    }
+    
+    .fwhite {
+        box-sizing: border-box;
+        height: 100px;
+        width: 100px;
+        top: 900%;
+        left: 48%;
+        background-color: #FFFFFF;
+        font-family: 'Sigmar One', cursive;
+        text-align: center;
+        line-height: 18px;
+        color: #696969;
+        position: absolute;
+    }
