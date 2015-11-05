@@ -1,0 +1,73 @@
+body {
+    background-color: #00CED1;
+    margin-top: 0px;
+}
+
+.name {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+
+.left {
+    background-color: #eeeae6;
+    float: left;
+    width: 70%;
+    margin-left: 40px;
+    margin-right: 5px;
+    padding: 30px;
+}
+
+h1 {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+h3 {
+    color: #4682B4;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 16px;
+}
+
+h5 {
+    color: #696969;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 14px;
+}
+
+.about {
+    box-sizing: border-box;
+    width: 800px;
+    height: 230px;
+    background-repeat: no-repeat;
+    background-image: url(images/PR.png);
+    background-position: top left;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.personal {
+    float: left;
+}
+
+.interests {
+    float: right;
+}
+
+.right {
+    background-color: #ffffff;
+    width: 270px;
+    height: 1256px;
+    margin-right: 10px;
+    padding: 10px;
+    position: absolute;
+    left: 993px;
+    text-align: center;
+}
+
+.skills {
+    font-family: 'Myriad Pro', sans-serif;
+    font-size: 10px;
+}
+
+.languages {
+    font-family: 'Myriad Pro', sans-serif;
+    font-size: 10px;
+}
